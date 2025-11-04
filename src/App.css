@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .container {
   max-width: 500px;
   margin: 3rem auto;
@@ -78,8 +78,6 @@ button:hover {
     font-size: 0.95rem;
   }
 }
-
-=======
 .app-container {
   max-width: 600px;
   margin: 2rem auto;
@@ -144,4 +142,4 @@ h1 {
   cursor: pointer;
   margin-top: 1rem;
 }
->>>>>>> 80312d230d16ca5bc42058c82632a22da4ce8aea
+
